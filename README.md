@@ -46,5 +46,6 @@ Then predictions are compared against actual prices to classify cars as:
 
 ---
 
-## 📁 File Structure
+## File Structure
+Arystan_Webscrapping.ipynb # Full notebook with scraping, cleaning, modeling, and EDA scraper.py # (optional) Module version of scraper main.py # Streamlit app version camry_data.csv # (optional) Pre-saved dataset for deployment
 
