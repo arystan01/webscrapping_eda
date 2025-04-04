@@ -47,10 +47,10 @@ Then predictions are compared against actual prices to classify cars as:
 ---
 
 ## File Structure
-├── Arystan_Webscrapping.ipynb     # Main Jupyter notebook with scraping, preprocessing, modeling, and EDA
-├── scraper.py                     # (optional) Python module version of the scraper and model
-├── main.py                        # Streamlit web app interface (uses scraper functions)
-├── requirements.txt               # Python dependencies
-└── README.md                      # Project documentation
+├── Arystan_Webscrapping.ipynb:    # Main Jupyter notebook with scraping, preprocessing, modeling, and EDA
+├── scraper.py:                    # (optional) Python module version of the scraper and model
+├── main.py:                       # Streamlit web app interface (uses scraper functions)
+├── requirements.txt:              # Python dependencies
+└── README.md:                     # Project documentation
 
 ---
